@@ -1,2 +1,2 @@
 # resto
-membuat aplikasi resto demi  memanfaatkan tekhnologi elektronik untuk kegiatan di dalam restoran
+membuat aplikasi resto demi  memanfaatkan tekhnologi elektronik untuk mempermudah dan mempercepat pekerjaan di dalam restoran
